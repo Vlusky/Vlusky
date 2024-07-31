@@ -1,4 +1,7 @@
-- Just your regular day to day computer nerd with both too much free time and not enough time.
+Animator by day, anituber by night.
+Artist first, programmer second.
+
+Most of my toy code lives happily on my hard drive, don't expect many commits on my profile :)
 
 <!---
 Vlusky/Vlusky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

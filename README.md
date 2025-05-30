@@ -1,5 +1,4 @@
-Animator by day, anituber by night.
-Artist first, programmer second.
+# Born to art, forced to code.
 
 Most of my toy code lives happily on my hard drive, don't expect many commits on my profile :)
 
